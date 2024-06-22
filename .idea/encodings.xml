@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/wails/GoModule" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wails/GoProject.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wails/Icons/Icons.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wails/Icons/WailsFrameworkIcon.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wails/Item.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wails/Startup.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wails/WailsConfigurationFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wails/WailsRunConfiguration.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wails/WailsRunConfigurationOptions.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wails/WailsRunConfigurationType.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wails/WailsSettingsEditor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wails/WailsState.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wails/contributor/AuroraContributor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wails/contributor/AuroraContributor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wails/contributor/ConfigContributor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wails/contributor/ConfigContributor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wails/contributor/ContributorUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wails/contributor/ContributorUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wails/contributor/GoBatisContributor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wails/contributor/GoBatisContributor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wails/contributor/GoFileContributor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wails/contributor/GoFileContributor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/wails/contributor/WailsContributor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/wails/contributor" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/icons" charset="GBK" />
+  </component>
+</project>
